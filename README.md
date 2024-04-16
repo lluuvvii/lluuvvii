@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,next,express,mongodb,mysql,mint&theme=light)](https://skillicons.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&layout=donut&bg_color=DEG,C3011E,E268BE&text_color=FFFFFF&theme=dark#gh-dark-mode-only)](https://github.com/lluuvvii/github-readme-stats)
 
 <!--
