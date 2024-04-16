@@ -5,7 +5,13 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="100" height="100" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,next,express,mongodb,mysql,mint&theme=light)](https://skillicons.dev)
+#### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,tailwind&theme=light)](https://skillicons.dev)
+
+#### Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel,docker&theme=light)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&layout=donut&bg_color=DEG,C3011E,E268BE&text_color=FFFFFF&theme=dark#gh-dark-mode-only)](https://github.com/lluuvvii/github-readme-stats)
 
