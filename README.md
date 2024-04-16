@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&layout=compact)](https://github.com/lluuvvii)
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&layout=compact)](https://github.com/lluuvvii)
 
 <!--
 **lluuvvii/lluuvvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
