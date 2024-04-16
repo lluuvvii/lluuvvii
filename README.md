@@ -3,9 +3,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling   Eyes" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="100" height="100" />
+  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Weary Cat" width="200" height="200" align="right" />
 </p>
-
-![Cool_Gif_^-^](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 #### Frameworks
 
