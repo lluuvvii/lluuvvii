@@ -10,6 +10,11 @@
 
 ---
 
+- 📫 How to reach me:
+- Email: kurniawanluvi64@gmail.com
+
+---
+
 ### Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,express,tailwind,bootstrap&theme=light)](https://skillicons.dev)
