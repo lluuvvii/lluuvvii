@@ -6,7 +6,7 @@
     , My Name is I Love Shollakhuddin Kurniawan
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="150" height="150" align="right" />
   </h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+is+my+principle" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+is+my+principle" alt="Typing SVG" /></a>
 </p>
 
 ---
