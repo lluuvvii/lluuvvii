@@ -1,14 +1,22 @@
-### Hi there 👋
 
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling   Eyes" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="100" height="100" />
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Weary Cat" width="200" height="200" align="right" />
+  <h1>
+    Hi There
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="cat smile" width="50" height="50" />
+    , My Name is I Love Shollakhuddin Kurniawan
+  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="150" height="150" align="right" />
+  </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+is+my+principle" alt="Typing SVG" /></a>
 </p>
+
+---
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,cpp,java,php&theme=light)](https://skillicons.dev)
 
 #### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,express,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
 #### Development Tools
 
