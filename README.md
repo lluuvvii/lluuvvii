@@ -24,9 +24,16 @@
 [![My Skills](https://skillicons.dev/icons?i=git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel,docker&theme=light)](https://skillicons.dev)
 
 ---
-
+<!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lluuvvii&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+-->
+
+<a href="https://github.com/lluuvvii/"><img alt="samih's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lluuvvii&show_icons=true&count_private=true&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/></a>
+<a href="https://github.com/lluuvvii"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&langs_count=8&layout=donut&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" /></a>
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&bg_color=1a1a1a&text_color=FFFFFF&theme=radical#gh-dark-mode-only)](https://github.com/lluuvvii/github-readme-stats)
+-->
 
 <!--
 **lluuvvii/lluuvvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
