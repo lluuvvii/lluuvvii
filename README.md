@@ -1,7 +1,7 @@
 <p>
   <h2>
     Hi There
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="cat smile" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="cat smile" width="40" height="40" />
     , My Name is I Love Shollakhuddin Kurniawan
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="140" height="140" align="right" />
   </h2>
