@@ -13,7 +13,7 @@
 ---
 
 - 📫 How to reach me:
-- Email: kurniawanluvi64@gmail.com
+- Email: luvikurniawan46@gmail.com
 
 <br>
 
