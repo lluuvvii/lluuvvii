@@ -11,6 +11,9 @@
 </p>
 
 ---
+- ⚡ Fun fact : <p>
+You can call me luvi with Indonesian pronunciation, and the name is taken from the word "love" with double "oo" & "ee", So in English it sounds like "loovee", in Indonesian it sounds like "luvi", so : -> love -> loovee -> luvi
+</p>
 
 - 📫 How to reach me:
 - Email: luvikurniawan46@gmail.com
