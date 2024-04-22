@@ -8,14 +8,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+principle;Gamer+Casual;Otaku/Weeb;Classical+Music+Enjoyer" alt="Typing SVG" /></a>
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="200" height="200" align="center" />
     <br>
-  <h2 align="center">Favorite Technologies
-    <br>
+  <h2 align="center">Favorite Technologies</h2>
+    <p align="center">
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Node.js.png" alt="Logo" width="200" align="center" />
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Next.js.png" alt="Logo" width="200" align="center" />
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/React.png" alt="Logo" width="200" align="center" />
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Tailwindcss6.png" alt="Logo" width="200" align="center" />
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/MUIT.png" alt="Logo" width="200" align="center" />
-  </h2>
+    </p>
   <p align="left">Logo Design By : <a href="https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a">sawaratsuki1004's transparent logos</a> by <a href="https://twitter.com/sawaratsuki1004">sawaratsuki1004 on Twitter</a> (<a href="https://twitter.com/sawaratsuki1004/status/1782079506083381657">Twitter post</a>)</p>
   </p>
 </p>
