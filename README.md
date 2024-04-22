@@ -36,7 +36,7 @@ You can call me luvi with Indonesian pronunciation, and the name is taken from t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel,docker&theme=light" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel,docker&theme=light" alt="My Skills">
   </a>
 </p>
 
