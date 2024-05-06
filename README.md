@@ -5,9 +5,11 @@
     , My Name is I Love Shollakhuddin Kurniawan
   </h1>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+principle;Gamer+Casual;Otaku/Weeb;Classical+Music+Enjoyer" alt="Typing SVG" /></a>
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="200" height="200" align="center" />
-    <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF4545&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=A+fullstack+web+developer;flexible+and+dynamic+principle;Gamer+Casual;Otaku/Weeb;Classical+Music+Enjoyer" alt="Typing SVG" /></a>
+    <p align="center">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=lluuvvii.lluuvvii&left_color=grey&right_color=red&format=true" alt="visitor badge">
+    </p>
   <h2 align="center">Favorite Development Pack</h2>
     <p align="center">
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Node.js.png" alt="Logo" width="200" align="center" />
