@@ -12,14 +12,6 @@
     <p align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=lluuvvii.lluuvvii&left_color=grey&right_color=red&format=true" alt="visitor badge">
     </p>
-  <h2 align="center">Favorite Development Pack</h2>
-    <p align="center">
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Node.js.png" alt="Logo" width="200" align="center" />
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Next.js.png" alt="Logo" width="200" align="center" />
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/React.png" alt="Logo" width="200" align="center" />
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Tailwindcss6.png" alt="Logo" width="200" align="center" />
-  <img src="https://github.com/lluuvvii/lluuvvii/blob/main/MUIT.png" alt="Logo" width="200" align="center" />
-    </p>
   <p align="left">Logo Design By : <a href="https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a">sawaratsuki1004's transparent logos</a> by <a href="https://twitter.com/sawaratsuki1004">sawaratsuki1004 on Twitter</a> (<a href="https://twitter.com/sawaratsuki1004/status/1782079506083381657">Twitter post</a>)</p>
   </p>
 </p>
@@ -33,45 +25,13 @@ You can call me luvi with Indonesian pronunciation, and the name is taken from t
 
 <br>
 
-<h2 align="center">
-  Frameworks
-</h2>  
+| **Frameworks** | **Development Tools** |
+|----------------|-----------------------|
+|<p align="center"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> </p> |<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel&theme=light" alt="My Skills"> </a> </p> |
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-</p>
-
-<h2 align="center">
-  Development Tools
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,mongodb,mysql,linux,mint,vscode,postman,prisma,vercel&theme=light" alt="My Skills">
-  </a>
-</p>
-
----
-<!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lluuvvii&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
--->
-
-<h2 align="center">
-  Stats
-</h2>
-
-<p align="center">
-<a href="https://github.com/lluuvvii/">
-  <img alt="samih's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lluuvvii&show_icons=true&count_private=true&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
-<a href="https://github.com/lluuvvii">
-  <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&langs_count=8&layout=donut&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px" /></a>
-</p>
-
+| **Favorite Development Pack** | **Stats** |
+|-------------------------------|-----------|
+| <p align="center"> <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Node.js.png" alt="Logo" width="150" align="center" /> <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Next.js.png" alt="Logo" width="150" align="center" /> <img src="https://github.com/lluuvvii/lluuvvii/blob/main/React.png" alt="Logo" width="150" align="center" /> <img src="https://github.com/lluuvvii/lluuvvii/blob/main/Tailwindcss6.png" alt="Logo" width="150" align="center" /> <img src="https://github.com/lluuvvii/lluuvvii/blob/main/MUIT.png" alt="Logo" width="150" align="center" /> </p> | <p align="center"> <a href="https://github.com/lluuvvii/"> <img alt="samih's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lluuvvii&show_icons=true&count_private=true&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/> </a> <a href="https://github.com/lluuvvii"> <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluuvvii&langs_count=8&layout=donut&theme=radical#gh-dark-mode-only&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" /> </a> </p> |
 
 <!--
 <img alt="snake contribution" src="https://raw.githubusercontent.com/lluuvvii/lluuvvii/output/github-contribution-grid-snake.svg" />
