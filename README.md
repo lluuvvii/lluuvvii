@@ -11,9 +11,6 @@
     <p align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=lluuvvii.lluuvvii&left_color=grey&right_color=red&format=true" alt="visitor badge">
     </p>
-  <p align="left">Logo Design By : <a href="https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a">sawaratsuki1004's transparent logos</a> by <a href="https://twitter.com/sawaratsuki1004">sawaratsuki1004 on Twitter</a> (<a href="https://twitter.com/sawaratsuki1004/status/1782079506083381657">Twitter post</a>)</p>
-  </p>
-</p>
 
 - ⚡ Fun fact : <p>
 You can call me luvi with Indonesian pronunciation, and the name is taken from the word "love" with double "oo" & "ee", So in English it sounds like "loovee", in Indonesian it sounds like "luvi", so : -> love -> loovee -> luvi
@@ -21,6 +18,12 @@ You can call me luvi with Indonesian pronunciation, and the name is taken from t
 
 - 📫 How to reach me:
 - Email: luvikurniawan46@gmail.com
+
+<br>
+
+  <p align="left">Logo Design By : <a href="https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a">sawaratsuki1004's transparent logos</a> by <a href="https://twitter.com/sawaratsuki1004">sawaratsuki1004 on Twitter</a> (<a href="https://twitter.com/sawaratsuki1004/status/1782079506083381657">Twitter post</a>)</p>
+  </p>
+</p>
 
 <br>
 
