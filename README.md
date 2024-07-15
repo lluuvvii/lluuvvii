@@ -1,7 +1,7 @@
   <h1 align="center">
     Hi There
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="cat smile" width="40" height="40" />
-    , My Name is I Love Shollakhuddin Kurniawan
+    , I'm I Love Shollakhuddin Kurniawan
   </h1>
   
   <p align="center">
