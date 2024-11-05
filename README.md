@@ -100,7 +100,6 @@ You can call me luvi with Indonesian pronunciation, and the name is taken from t
 <!--
 <img alt="snake contribution" src="https://raw.githubusercontent.com/lluuvvii/lluuvvii/output/github-contribution-grid-snake.svg" />
 -->
-
 <!--
 **lluuvvii/lluuvvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
