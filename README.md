@@ -96,7 +96,6 @@ You can call me luvi with Indonesian pronunciation, and the name is taken from t
   </tr>
 </table>
 
-
 <!--
 <img alt="snake contribution" src="https://raw.githubusercontent.com/lluuvvii/lluuvvii/output/github-contribution-grid-snake.svg" />
 -->
